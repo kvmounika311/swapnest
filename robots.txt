@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saipavan21.github.io/finn-like-marketplace/sitemap.xml
